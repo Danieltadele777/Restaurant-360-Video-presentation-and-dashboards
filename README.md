@@ -32,7 +32,7 @@ The data source used for this analysis is provided by the bootcamp provider. The
 
 [![Restaurant 360](https://img.youtube.com/vi/https://www.youtube.com/watch?v=fD2gj08sKCE/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=fD2gj08sKCE)
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=fD2gj08sKCE/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=fD2gj08sKCE)
 
 
 
