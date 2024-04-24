@@ -28,12 +28,12 @@ The data source used for this analysis is provided by the bootcamp provider. The
 <img width="1235" alt="item" src="https://github.com/Danieltadele777/Restaurant-360-Video-presentation-and-dashboards/assets/147874875/4daa5751-ce1c-448e-b4a8-a3b6fc071b14">
 <img width="1248" alt="Paired items" src="https://github.com/Danieltadele777/Restaurant-360-Video-presentation-and-dashboards/assets/147874875/a6111915-919a-4b8e-b392-d40c57fbed8a">
 
-### Video Presentation
+### [Video Presentation]()
 https://www.youtube.com/watch?v=fD2gj08sKCE
 
 
 
-### References
+### [References]()
 1. [Stack Overflow](www.stackoverflow.com)
 2. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
