@@ -30,7 +30,8 @@ The data source used for this analysis is provided by the bootcamp provider. The
 
 ### Video Presentation
 
-[![Restaurant 360]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=fD2gj08sKCE))
+[![Restaurant 360](https://img.youtube.com/vi/[VIDEO_ID](https://www.youtube.com/watch?v=fD2gj08sKCE)/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=fD2gj08sKCE)
+
 
 
 
