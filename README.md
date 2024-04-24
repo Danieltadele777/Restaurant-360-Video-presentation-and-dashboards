@@ -29,10 +29,7 @@ The data source used for this analysis is provided by the bootcamp provider. The
 <img width="1248" alt="Paired items" src="https://github.com/Danieltadele777/Restaurant-360-Video-presentation-and-dashboards/assets/147874875/a6111915-919a-4b8e-b392-d40c57fbed8a">
 
 ### Video Presentation
-
-[![Restaurant 360](https://img.youtube.com/vi/https://www.youtube.com/watch?v=fD2gj08sKCE/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=fD2gj08sKCE)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=fD2gj08sKCE/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=fD2gj08sKCE)
+https://www.youtube.com/watch?v=fD2gj08sKCE
 
 
 
