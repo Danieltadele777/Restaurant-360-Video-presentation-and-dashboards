@@ -1,5 +1,4 @@
-# Restaurant-360 Video presentation and dashboards
-This is a second repository which explains about this project using only video presentation and dashboards! Kindly [click here](https://github.com/Danieltadele777/Restaurant-360--food-chain.git) to see detailed project including findings, recommendations and project limitations. 
+This is the second repository which explains about this project using only video presentation and dashboards! Kindly [click here](https://github.com/Danieltadele777/Restaurant-360--food-chain.git) to see detailed project including findings, recommendations and project limitations. 
 ## Table of contents
  - [Project Overview](#project-overview)
  - [Data Source](#data-source)
