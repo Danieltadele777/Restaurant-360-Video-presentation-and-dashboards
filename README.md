@@ -8,13 +8,13 @@ This is a second repository which explains about this project using only video p
  - [Video Presentation](#video-presentation)
  - [References](#references)
 
-### Project Overview
+### [Project Overview]()
 Conducting an in-depth analysis of Restaurant 360, comprising 21 stores. The analysis will encompass 3,924,748 orders spanning from 2015 to 2020. Four primary datasets will be utilized: Order Data, Orderline, Payment Data, and ID Store.
 
-### Data Source
+### [Data Source]()
 The data source used for this analysis is provided by the bootcamp provider. The school also provided detailed information about join keys and data schemas. 
 
-### Tools Used
+### [Tools Used]()
 - Google BigQuery: Primary data cleaning
 - SQL: for data claning and transformation
 - Panda: for data cleaning, inspection and analysis
